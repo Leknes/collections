@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <PackageId>Senkel.Collections.Conversions</PackageId>
+    <Authors>Leonhard Senkel</Authors>
+    <Company>Leonhard Senkel</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageDescription>A library granting optimized access to a lot of procedures around collections that are not natively supported.</PackageDescription>
+    <RepositoryUrl>https://github.com/Leknes/collections</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
