@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Collections.Model</PackageId> 
+    <PackageDescription>A model for collections in general, providing more fine-grained access to collections.</PackageDescription>
+  </PropertyGroup>
+
+</Project>

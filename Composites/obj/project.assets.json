@@ -1,13 +1,45 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {},
-    "net8.0": {}
+    ".NETStandard,Version=v2.1": {
+      "Senkel.Collections.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Senkel.Collections.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Senkel.Collections.Model.dll": {}
+        }
+      }
+    },
+    "net8.0": {
+      "Senkel.Collections.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Senkel.Collections.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Senkel.Collections.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Senkel.Collections.Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Senkel.Collections.Model.csproj",
+      "msbuildProject": "../Model/Senkel.Collections.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [],
-    "net8.0": []
+    ".NETStandard,Version=v2.1": [
+      "Senkel.Collections.Model >= 1.0.0"
+    ],
+    "net8.0": [
+      "Senkel.Collections.Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Leonhard\\.nuget\\packages\\": {},
@@ -16,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Senkel\\Collections\\Conversions\\Senkel.Collections.Conversions.csproj",
-      "projectName": "Senkel.Collections.Conversions",
-      "projectPath": "D:\\GitHub\\Senkel\\Collections\\Conversions\\Senkel.Collections.Conversions.csproj",
+      "projectUniqueName": "D:\\GitHub\\Senkel\\Collections\\Composites\\Senkel.Collections.Composites.csproj",
+      "projectName": "Senkel.Collections.Composites",
+      "projectPath": "D:\\GitHub\\Senkel\\Collections\\Composites\\Senkel.Collections.Composites.csproj",
       "packagesPath": "C:\\Users\\Leonhard\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Senkel\\Collections\\Conversions\\obj\\",
+      "outputPath": "D:\\GitHub\\Senkel\\Collections\\Composites\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -43,11 +75,19 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\Senkel\\Collections\\Model\\Senkel.Collections.Model.csproj": {
+              "projectPath": "D:\\GitHub\\Senkel\\Collections\\Model\\Senkel.Collections.Model.csproj"
+            }
+          }
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitHub\\Senkel\\Collections\\Model\\Senkel.Collections.Model.csproj": {
+              "projectPath": "D:\\GitHub\\Senkel\\Collections\\Model\\Senkel.Collections.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

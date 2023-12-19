@@ -1,0 +1,12 @@
+D:\GitHub\Senkel\Collections\Conversions\bin\Debug\net8.0\Senkel.Collections.Conversions.deps.json
+D:\GitHub\Senkel\Collections\Conversions\bin\Debug\net8.0\Senkel.Collections.Conversions.dll
+D:\GitHub\Senkel\Collections\Conversions\bin\Debug\net8.0\Senkel.Collections.Conversions.pdb
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.AssemblyInfoInputs.cache
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.AssemblyInfo.cs
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.csproj.CoreCompileInputs.cache
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.sourcelink.json
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.dll
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\refint\Senkel.Collections.Conversions.dll
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\Senkel.Collections.Conversions.pdb
+D:\GitHub\Senkel\Collections\Conversions\obj\Debug\net8.0\ref\Senkel.Collections.Conversions.dll

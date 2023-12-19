@@ -1,0 +1,16 @@
+D:\GitHub\Senkel\Collections\Composites\bin\Debug\net8.0\Senkel.Collections.Composites.deps.json
+D:\GitHub\Senkel\Collections\Composites\bin\Debug\net8.0\Senkel.Collections.Composites.dll
+D:\GitHub\Senkel\Collections\Composites\bin\Debug\net8.0\Senkel.Collections.Composites.pdb
+D:\GitHub\Senkel\Collections\Composites\bin\Debug\net8.0\Senkel.Collections.Model.dll
+D:\GitHub\Senkel\Collections\Composites\bin\Debug\net8.0\Senkel.Collections.Model.pdb
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.csproj.AssemblyReference.cache
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.AssemblyInfoInputs.cache
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.AssemblyInfo.cs
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.csproj.CoreCompileInputs.cache
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.sourcelink.json
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.csproj.CopyComplete
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.dll
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\refint\Senkel.Collections.Composites.dll
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\Senkel.Collections.Composites.pdb
+D:\GitHub\Senkel\Collections\Composites\obj\Debug\net8.0\ref\Senkel.Collections.Composites.dll

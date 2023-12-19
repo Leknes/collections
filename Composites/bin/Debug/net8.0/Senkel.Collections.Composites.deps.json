@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Senkel.Collections.Composites/1.0.0": {
+        "dependencies": {
+          "Senkel.Collections.Model": "1.0.0"
+        },
+        "runtime": {
+          "Senkel.Collections.Composites.dll": {}
+        }
+      },
+      "Senkel.Collections.Model/1.0.0": {
+        "runtime": {
+          "Senkel.Collections.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senkel.Collections.Composites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Collections.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

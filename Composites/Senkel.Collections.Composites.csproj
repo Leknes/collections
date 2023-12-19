@@ -1,17 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-	<TargetFrameworks>net8.0;netstandard2.1</TargetFrameworks>
+    <TargetFrameworks>net8.0;netstandard2.1</TargetFrameworks>
 	<LangVersion>12.0</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <OutputType>Library</OutputType>
-    <PackageId>Senkel.Collections.Conversions</PackageId>
+    <PackageId>Senkel.Collections.Composites</PackageId>
     <Authors>Leonhard Senkel</Authors>
     <Company>Leonhard Senkel</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageDescription>A library granting optimized access to a lot of procedures around collections that are not natively supported.</PackageDescription>
+    <PackageDescription>A library for implementing the composite design pattern.</PackageDescription>
     <RepositoryUrl>https://github.com/Leknes/collections</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Senkel.Collections.Model.csproj" />
+  </ItemGroup>
 
 </Project>
