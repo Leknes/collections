@@ -1,9 +1,10 @@
-using Senkel.Collections.Model;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Senkel.Collections.Composites;
 
 /// <summary>
-/// Represents a composite including objects of the specified type <see cref="T"/>.
+/// Represents a composite including objects of the specified type.
 /// </summary>
 /// <typeparam name="T">The type of the leaves in the composite.</typeparam>
 public abstract class Composite<T> : ISimplexCollection<T> 

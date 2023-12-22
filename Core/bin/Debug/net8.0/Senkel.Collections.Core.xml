@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Collections.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.Collections.ISimplexCollection`1">
+            <summary>
+            Represents a collection that items can only be added to, or removed from 
+            so that the collection can only be modified using inputs from the caller. 
+            </summary>
+        </member>
+        <member name="M:Senkel.Collections.ISimplexCollection`1.Add(`0)">
+            <summary>
+            Adds the specified item to the collection.
+            </summary>
+            <param name="item">The item to add.</param>
+        </member>
+        <member name="M:Senkel.Collections.ISimplexCollection`1.Remove(`0)">
+            <summary>
+            Removes the specified item from the collection.
+            </summary>
+            <param name="item">The item to remove.</param>
+            <returns>If an item has been removed.</returns>
+        </member>
+    </members>
+</doc>

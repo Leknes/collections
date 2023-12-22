@@ -9,7 +9,11 @@
     ".NETStandard,Version=v2.1/": {
       "Senkel.Collections.Composites/1.0.0": {
         "dependencies": {
-          "Senkel.Collections.Model": "1.0.0"
+          "Senkel.Collections.Model": "1.0.0",
+          "Senkel.Compatibility.NullableAttribute": "1.0.0",
+          "Senkel.Compatibility.RequiredModifier": "1.0.0",
+          "Senkel.Collections.Core": "1.0.0.0",
+          "Senkel.Compatibility.NullableAttributes": "1.0.0.0"
         },
         "runtime": {
           "Senkel.Collections.Composites.dll": {}
@@ -17,7 +21,33 @@
       },
       "Senkel.Collections.Model/1.0.0": {
         "runtime": {
-          "Senkel.Collections.Model.dll": {}
+          "Senkel.Collections.Core.dll": {}
+        }
+      },
+      "Senkel.Compatibility.NullableAttribute/1.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.NullableAttributes.dll": {}
+        }
+      },
+      "Senkel.Compatibility.RequiredModifier/1.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.RequiredModifier.dll": {}
+        }
+      },
+      "Senkel.Collections.Core/1.0.0.0": {
+        "runtime": {
+          "Senkel.Collections.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Senkel.Compatibility.NullableAttributes/1.0.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.NullableAttributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -30,6 +60,26 @@
     },
     "Senkel.Collections.Model/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.NullableAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.RequiredModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Collections.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.NullableAttributes/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

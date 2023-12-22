@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Collections.Composites</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.Collections.Composites.Composite`1">
+            <summary>
+            Represents a composite including objects of the specified type.
+            </summary>
+            <typeparam name="T">The type of the leaves in the composite.</typeparam>
+        </member>
+        <member name="P:Senkel.Collections.Composites.Composite`1.Leaves">
+            <summary>
+            The leaf objects in the composite.
+            </summary>
+        </member>
+        <member name="M:Senkel.Collections.Composites.Composite`1.#ctor(System.Collections.Generic.ICollection{`0})">
+            <summary>
+            Initializes a new <see cref="T:Senkel.Collections.Composites.Composite`1"/> instance that uses the specified list of leaves.
+            </summary>
+            <param name="leaves">The leaves that the composite has initially.</param>
+        </member>
+        <member name="M:Senkel.Collections.Composites.Composite`1.#ctor">
+            <summary>
+            Initializes a new <see cref="T:Senkel.Collections.Composites.Composite`1"/> instance with no initial leaves.
+            </summary>
+        </member>
+        <member name="M:Senkel.Collections.Composites.Composite`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Initializes a new <see cref="T:Senkel.Collections.Composites.Composite`1"/> instance that uses a list created with the <see cref="M:System.Linq.Enumerable.ToList``1(System.Collections.Generic.IEnumerable{``0})"/> method on the specified enumerable.
+            </summary>
+            <param name="leaves">The leaves that the composite has initially.</param>
+        </member>
+        <member name="M:Senkel.Collections.Composites.Composite`1.Add(`0)">
+            <summary>
+            Adds a new leaf to the composite.
+            </summary>
+            <param name="leaf">The leaf to add.</param>
+        </member>
+        <member name="M:Senkel.Collections.Composites.Composite`1.Remove(`0)">
+            <summary>
+            Removes a new leaf from the composite.
+            </summary>
+            <param name="leaf">The leaf to remove.</param>
+        </member>
+    </members>
+</doc>

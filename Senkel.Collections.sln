@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senkel.Collections.Composit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senkel.Collections.Conversions", "Conversions\Senkel.Collections.Conversions.csproj", "{2DA9C349-7D6B-42E3-9929-4D77DF797318}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senkel.Collections.Model", "Model\Senkel.Collections.Model.csproj", "{BAC47D7B-0516-4D49-B3B5-042EBBEBFF27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senkel.Collections.Core", "Core\Senkel.Collections.Core.csproj", "{C238E30B-6E73-4C0E-BB2F-EE06A47BF18B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{2DA9C349-7D6B-42E3-9929-4D77DF797318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA9C349-7D6B-42E3-9929-4D77DF797318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA9C349-7D6B-42E3-9929-4D77DF797318}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BAC47D7B-0516-4D49-B3B5-042EBBEBFF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BAC47D7B-0516-4D49-B3B5-042EBBEBFF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BAC47D7B-0516-4D49-B3B5-042EBBEBFF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BAC47D7B-0516-4D49-B3B5-042EBBEBFF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C238E30B-6E73-4C0E-BB2F-EE06A47BF18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C238E30B-6E73-4C0E-BB2F-EE06A47BF18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C238E30B-6E73-4C0E-BB2F-EE06A47BF18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C238E30B-6E73-4C0E-BB2F-EE06A47BF18B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

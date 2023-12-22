@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.deps.json
+D:\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.dll
+D:\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.pdb
+D:\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.xml
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.sourcelink.json
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.dll
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\refint\Senkel.Collections.Core.dll
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.xml
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.pdb
+D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\ref\Senkel.Collections.Core.dll

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senkel.Collections.Conversions</name>
+    </assembly>
+    <members>
+        <member name="T:Senkel.Collections.Conversion.ConversionEnumerator`2">
+            <summary>
+            Represents an enumerator that is based on another <see cref="T:System.Collections.Generic.IEnumerator`1"/> and converts 
+            the <see cref="P:System.Collections.Generic.IEnumerator`1.Current"/> value to a corresponding value of the <see cref="!:TOutput"/> type.
+            </summary>
+            <typeparam name="TInput">The type of the enumerator that is meant to be converted.</typeparam>
+            <typeparam name="TOutput">The type to convert to, that this enumerator is based on.</typeparam>
+        </member>
+        <member name="M:Senkel.Collections.Conversion.ConversionEnumerator`2.#ctor(System.Collections.Generic.IEnumerator{`0})">
+            <summary>
+            Initializes the enumerator to be based on the specified <see cref="T:System.Collections.Generic.IEnumerator`1"/> instance.
+            </summary>
+            <param name="enumerator">The instance to convert from.</param>
+        </member>
+        <member name="M:Senkel.Collections.Conversion.ConversionEnumerator`2.Convert(`0)">
+            <summary>
+            Converts the given input value to a corresponding output value.
+            </summary>
+            <param name="input">The input value to convert.</param>
+            <returns>The converted value.</returns>
+        </member>
+        <member name="T:Senkel.Collections.Conversion.FuncEnumerator`2">
+            <summary>
+            Represents an enumerator that is based on another <see cref="T:System.Collections.Generic.IEnumerator`1"/> and converts 
+            the <see cref="P:System.Collections.Generic.IEnumerator`1.Current"/> value to a corresponding value of the <see cref="!:TOutput"/> type,
+            using a specified <see cref="T:System.Converter`2"/> delegate instance.
+            </summary>
+            <typeparam name="TInput">The type of the enumerator that is meant to be converted.</typeparam>
+            <typeparam name="TOutput">The type to convert to, that this enumerator is based on.</typeparam>
+        </member>
+        <member name="M:Senkel.Collections.Conversion.FuncEnumerator`2.#ctor(System.Collections.Generic.IEnumerator{`0},System.Converter{`0,`1})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.Collections.Conversion.FuncEnumerator`2"/> class, 
+            based on the specified enumerator using the given converter delegate.
+            </summary>
+            <param name="enumerator">The instance to convert from.</param>
+            <param name="convert">The delegate that is used for conversion.</param>
+        </member>
+        <member name="M:Senkel.Collections.Conversion.FuncEnumerator`2.#ctor(System.Collections.Generic.IEnumerable{`0},System.Converter{`0,`1})">
+            <summary>
+            Creates a new instance of the <see cref="T:Senkel.Collections.Conversion.FuncEnumerator`2"/> class, 
+            based on the enumerator of the specified enumerable using the given converter delegate.
+            </summary>
+            <param name="enumerator">The enumerable which enumerator is converted from.</param>
+            <param name="convert">The delegate that is used for conversion.</param>
+        </member>
+    </members>
+</doc>

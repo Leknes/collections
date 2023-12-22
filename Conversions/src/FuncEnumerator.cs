@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System;
 
 namespace Senkel.Collections.Conversion;
 
