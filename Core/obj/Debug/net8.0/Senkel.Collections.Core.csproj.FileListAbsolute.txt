@@ -12,3 +12,17 @@ D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\refint\Senkel.Collect
 D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.xml
 D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.pdb
 D:\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\ref\Senkel.Collections.Core.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\bin\Debug\net8.0\Senkel.Collections.Core.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\refint\Senkel.Collections.Core.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\Senkel.Collections.Core.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Collections\Core\obj\Debug\net8.0\ref\Senkel.Collections.Core.dll
